@@ -3,7 +3,7 @@ https://www.eduke32.com/
 https://wiki.eduke32.com/wiki/EDuke32 is the official EDuke32 documentation resource.
 
 # How to build
-`make -j6 USE_OPENGL=1 SDL_TARGET=2 USE_LIBVPX=0`
+`make -j6 USE_OPENGL=0 SDL_TARGET=2 USE_LIBVPX=0`
 
 # Configuration
 `~/.config/eduke32/eduke32.cfg`
